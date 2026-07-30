@@ -1,0 +1,1 @@
+This project is a Machine Learning-based Diabetes Prediction System that predicts whether a person is likely to have diabetes using medical parameters such as glucose level, BMI, blood pressure, insulin, and age. The model is trained on a healthcare dataset and aims to support early detection through accurate and data-driven predictions.
